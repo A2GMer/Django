@@ -10,7 +10,7 @@
 ```buildoutcfg
 $ docker-compose up
 ```
- http://localhost:18000/に接続する。
+ http://localhost:18000/ に接続する。
 
 #フォルダ構成
 Django/
