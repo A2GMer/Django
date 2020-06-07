@@ -1,5 +1,7 @@
 #Djangoの勉強
 + Djangoの概要を知る
+Django + MySQL環境
+
 ![Rocket powered created by James Oconnell](https://img.gifmagazine.net/gifmagazine/images/875275/180half_f.gif)
 
 #フレームワーク
